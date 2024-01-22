@@ -18,3 +18,6 @@ I am deeply passionate about exploring new technologies, coding best practices, 
 ### 📫 Let's Connect:
 I'm always open to connecting with fellow developers, tech enthusiasts, and potential collaborators. Feel free to explore my GitHub repositories, share your thoughts, or drop a message to discuss anything tech-related.
 
+
+[![Mubash's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MUBASH-M\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/MUBASH-M/readme-stats-master#responsive-card-theme#gh-dark-mode-only)
+[![Mubash's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MUBASH-M\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/MUBASH-M/readme-stats-master#responsive-card-theme#gh-light-mode-only)
