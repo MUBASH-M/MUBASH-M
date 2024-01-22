@@ -1,21 +1,3 @@
-  <p align="center">
-    <a href="https://github.com/MUBASH-M/readme-stats-master/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/MUBASH-M/readme-stats-master" />
-    </a>
-    <a href="https://codecov.io/gh/MUBASH-M/readme-stats-master">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/MUBASH-M/readme-stats-master/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/MUBASH-M/readme-stats-master/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/MUBASH-M/readme-stats-master?color=0088ff" />
-    </a>
-    <a href="https://github.com/MUBASH-M/readme-stats-master/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/MUBASH-M/readme-stats-master?color=0088ff" />
-    </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/MUBASH-M/readme-stats-master">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/MUBASH-M/readme-stats-master/badge" />
-    </a>
-    <br />
-    <br />
 
 ### Greetings! 👋 I'm Mubash M, 
 A passionate and results-driven software developer with a flair for turning lines of code into innovative solutions. As a dedicated Python Developer, my journey in the world of technology has been shaped by a relentless curiosity and a commitment to delivering excellence.
