@@ -1,6 +1,6 @@
 
 ### Greetings! 👋 I'm Mubash M, 
-A passionate and results-driven software developer with a flair for turning lines of code into innovative solutions. As a dedicated Python Developer, my journey in the world of technology has been shaped by a relentless curiosity and a commitment to delivering excellence.
+A passionate and results-driven Data Engineer with a flair for turning lines of code into innovative solutions. As a dedicated Python Developer, my journey in the world of technology has been shaped by a relentless curiosity and a commitment to delivering excellence.
 
 ### 🚀 About Me:
 
